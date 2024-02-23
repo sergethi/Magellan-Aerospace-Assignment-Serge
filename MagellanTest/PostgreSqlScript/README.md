@@ -1,5 +1,5 @@
 
--- Create database called Part
+-- Create a database called Part
 CREATE DATABASE Part;
 
 -- Create the item table
